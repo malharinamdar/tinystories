@@ -1,5 +1,5 @@
 # Tinystories
-### Are certain languages inherently more complicated than the other?
+### Are certain languages inherently more complex than the other?
 - Work here is to analyse the inherent complexities present in different languages specifically 
 in the context of Indian regional languages.
 
